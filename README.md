@@ -1,6 +1,6 @@
 # covid19trackerindia
 
-COVID-19 Tracker India
+COVID-19 India Tracker Appilication build using Flutter with common code base for Android/IOS/Web Application.
 
 ## Getting Started
 
